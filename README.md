@@ -5,7 +5,7 @@
 
 Для сохранения визуальной составляющей проектов рекомендую смотреть в nbviewer.
 
-| Название проекта | Сфера деятельности компании | Направление деятельности | Навыки и инструменты | Задачи проекта | ссылка для nbviewer |
+| Название проекта | Сфера деятельности компании | Направление деятельности | Навыки и инструменты | Задачи проекта | ссылка на nbviewer |
 | :----------------| :-------------------------- |:------------------------ |:-------------------- |:-------------- |:-------------- |
 | [Анализ бизнес-показателей](https://github.com/MarinaShubukina/yandex-praktikum-projects/tree/main/business-analysis) | Интернет-сервисы | Маркетинг-аналитик, Продуктовый аналитик | Matplotlib, Pandas, Python, когортный анализ, продуктовые метрики, юнит-экономика | Для сервиса Яндекс.Афиша провести анализ поведения пользователей и статистики маркетинговых расходов. Определить выгодные источники трафика и скорректировать маркетинговую кампанию с целью снижения расходов. | https://nbviewer.org/github/MarinaShubukina/yandex-practicum-projects/blob/406eef2468ad70c127376775334711c4a1991c08/business-analysis/business_analysis_project.ipynb |
 | [Прогноз оттока](https://github.com/MarinaShubukina/yandex-praktikum-projects/tree/main/churn-forecasting) | Бизнес, Оффлайн | Аналитик(универсал), Маркетинг-аналитик | Matplotlib, Pandas, Python, Scikit-learn, Seaborn, классификация, кластеризация, машинное обучение | Сформировать с помощью кластеризации сегментов пользователей сети фитнес-центров и выявить факторы, влияющие на отток.  | https://nbviewer.org/github/MarinaShubukina/yandex-practicum-projects/blob/92c0668083bc6ce33a7817ccc754f406acb4fd97/churn-forecasting/churn_forecasting_project.ipynb |
